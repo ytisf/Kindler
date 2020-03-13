@@ -15,7 +15,7 @@ Since the display is only 2.13" it really can't be too much in and of itself. Si
 
 This is how it looks:
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/6.jpg)
+![](https://www.morirt.com/Kindler/6.jpg | width=512 )
 
 ### What You'll Need
 I really wanted this to be durable, resilient and long lasting. We have a few picture frames in our house and some just died, some just reboot occasionally and some just shut-off from time to time waiting for someone to start them. Hence i wanted something that once plugged in, even with no internet, will continue working.
@@ -31,7 +31,7 @@ I really wanted this to be durable, resilient and long lasting. We have a few pi
 
 **Project Work Time**: ~15 minutes if your Raspberry Pi is ready, ~1 hour if it needs flushing.
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/0.jpg)
+![](https://www.morirt.com/Kindler/0.jpg | width=512 )
 
 ## Instructions
 
@@ -87,9 +87,9 @@ Now that we have the tools and everything needed to have the code communicate wi
 
 In my case, i also wanted a small fan to circulate some air in the case of the device. Since all of the IDE pins are locked i've used an 8-pin connector from the adapter (came in the box for me) and then took pin-0 (VNN) and pin-1 (GND) and connected the fan to that.
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/1.jpg)
+![](https://www.morirt.com/Kindler/1.jpg | width=512 )
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/2.jpg)
+![](https://www.morirt.com/Kindler/2.jpg | width=512 )
 
 
 ### Step 3.5 - [Optional] Configuring WiFi
@@ -137,8 +137,8 @@ At this point you have added `Kindler` to the start up of the device and it shou
 
 When i measured this particular eInk display the size was 2[cm] on 3.5[cm]. Yours might be different depending on the EInk display you're using. Use a box cutter to cut the image and paste your display on the spot. Use some duct tape to join the RaspberryPi with the back of the photo. Make sure it has some clear surface space to disperse of aggregated heat.
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/3.jpg)
+![](https://www.morirt.com/Kindler/3.jpg | width=512 )
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/4.jpg)
+![](https://www.morirt.com/Kindler/4.jpg | width=512 )
 
-![](https://raw.githubusercontent.com/ytisf/Kindler/master/images/5.jpg)
+![](https://www.morirt.com/Kindler/5.jpg | width=512 )
