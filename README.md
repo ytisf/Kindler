@@ -10,12 +10,14 @@ Take a photo frame you already have of your loved ones and add a little caption 
 
 **Disclaimer** - This is **not** a sponsored post neither are any of the products promoted in anyway. Other than the Raspberry Pi because i love it.
 
+<img src="https://www.morirt.com/Kindler/7.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/7.jpg" width="512"/>
+
 ## Built Details
 Since the display is only 2.13" it really can't be too much in and of itself. Since it's also not that durable and i'm pretty sure that after 10 minutes with our kids this thing will turn into a colored useless strip i was going from something more decorative. So i've commenced building a picture frame with our own favorite picture that will have an alternative text on it. For the text i chose quotes.
 
 This is how it looks:
 
-![](https://www.morirt.com/Kindler/6.jpg | width=512 )
+<img src="https://www.morirt.com/Kindler/6.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/6.jpg" width="512"/>
 
 ### What You'll Need
 I really wanted this to be durable, resilient and long lasting. We have a few picture frames in our house and some just died, some just reboot occasionally and some just shut-off from time to time waiting for someone to start them. Hence i wanted something that once plugged in, even with no internet, will continue working.
@@ -31,7 +33,7 @@ I really wanted this to be durable, resilient and long lasting. We have a few pi
 
 **Project Work Time**: ~15 minutes if your Raspberry Pi is ready, ~1 hour if it needs flushing.
 
-![](https://www.morirt.com/Kindler/0.jpg | width=512 )
+<img src="https://www.morirt.com/Kindler/0.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/0.jpg" width="512"/>
 
 ## Instructions
 
@@ -87,10 +89,9 @@ Now that we have the tools and everything needed to have the code communicate wi
 
 In my case, i also wanted a small fan to circulate some air in the case of the device. Since all of the IDE pins are locked i've used an 8-pin connector from the adapter (came in the box for me) and then took pin-0 (VNN) and pin-1 (GND) and connected the fan to that.
 
-![](https://www.morirt.com/Kindler/1.jpg | width=512 )
+<img src="https://www.morirt.com/Kindler/2.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/2.jpg" width="512"/>
 
-![](https://www.morirt.com/Kindler/2.jpg | width=512 )
-
+<img src="https://www.morirt.com/Kindler/3.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/3.jpg" width="512"/>
 
 ### Step 3.5 - [Optional] Configuring WiFi
 
@@ -137,8 +138,10 @@ At this point you have added `Kindler` to the start up of the device and it shou
 
 When i measured this particular eInk display the size was 2[cm] on 3.5[cm]. Yours might be different depending on the EInk display you're using. Use a box cutter to cut the image and paste your display on the spot. Use some duct tape to join the RaspberryPi with the back of the photo. Make sure it has some clear surface space to disperse of aggregated heat.
 
-![](https://www.morirt.com/Kindler/3.jpg | width=512 )
+<img src="https://www.morirt.com/Kindler/4.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/4.jpg" width="512"/>
 
-![](https://www.morirt.com/Kindler/4.jpg | width=512 )
+<img src="https://www.morirt.com/Kindler/5.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/5.jpg" width="512"/>
 
-![](https://www.morirt.com/Kindler/5.jpg | width=512 )
+<img src="https://www.morirt.com/Kindler/6.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/6.jpg" width="512"/>
+
+<img src="https://www.morirt.com/Kindler/8.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/8.jpg" width="512"/>
