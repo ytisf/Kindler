@@ -10,7 +10,7 @@ Take a photo frame you already have of your loved ones and add a little caption 
 
 **Disclaimer** - This is **not** a sponsored post neither are any of the products promoted in anyway. Other than the Raspberry Pi because i love it.
 
-<img src="https://www.morirt.com/Kindler/7.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/7.jpg" width="512"/>
+<img src="https://www.morirt.com/Kindler/7.png" alt="" data-canonical-src="https://www.morirt.com/Kindler/7.png" width="512"/>
 
 ## Built Details
 Since the display is only 2.13" it really can't be too much in and of itself. Since it's also not that durable and i'm pretty sure that after 10 minutes with our kids this thing will turn into a colored useless strip i was going from something more decorative. So i've commenced building a picture frame with our own favorite picture that will have an alternative text on it. For the text i chose quotes.
@@ -144,4 +144,4 @@ When i measured this particular eInk display the size was 2[cm] on 3.5[cm]. Your
 
 <img src="https://www.morirt.com/Kindler/6.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/6.jpg" width="512"/>
 
-<img src="https://www.morirt.com/Kindler/8.jpg" alt="" data-canonical-src="https://www.morirt.com/Kindler/8.jpg" width="512"/>
+<img src="https://www.morirt.com/Kindler/8.png" alt="" data-canonical-src="https://www.morirt.com/Kindler/8.png" width="512"/>
